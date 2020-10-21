@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
+body{
+    background: red;
+}
+.header{
+    background: pink;
+    width: 100%;
+    color: black;
+    padding-bottom: 40px;
+
+}
+.white-section{
+    background: #ffffff;
+    width: 80%;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    margin: 25px auto 0;
+
+
+}
+.black_section{
+    height: 50px;
+    width: 80%;
+    background: #000;
+    margin: 0 auto;
+}
+
+.clear {
+    clear: both;
+}
+
+.menu{
+    background: grey;
+    padding-bottom: 15px;
+}
+.target1{
+    background: red;
+    width: 25%;
+    height: 200px;
+    float: left;
+}
+.target2{
+    background: orange;
+    width: 25%;
+    height: 200px;
+    float: left;
+}
+.target3{
+    background: blue;
+    width: 25%;
+    height: 200px;
+    float: left;
+}
+.target4{
+    background: yellow;
+    width: 25%;
+    height: 200px;
+    float: left;
+}
+.line{
+    background: grey;
+    clear: both;
+    height: 16px;
+}
+.block-left{
+    background: green;
+    width: 33.3%;
+    float: left;
+    height: 500px;
+
+}
+.block-center{
+    background: blue;
+    width: 33.3%;
+    float: left;
+    height: 500px;
+    position: relative;
+}
+.block-right{
+    background: darkslateblue;
+    width: 33.31%;
+    float: left;
+    height: 500px;
+    position: relative;
+}
+.left{
+    background: orange;
+    width: 80%;
+    margin: 30px auto;
+}
+.a-left{
+    width: 50%;
+    background: pink;
+    float: left;
+    height: 350px;
+    margin-top: 50px;
+
+}
+.b-left{
+    width: 50%;
+    background: yellow;
+    float: left;
+    height: 350px;
+    margin-top: 50px;
+
+}
+
+.a-center {
+    height: 470px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+.a-center-item {
+    height: 100%;
+    width: 33.33%;
+    float: left;
+}
+
+.a-center-red {
+    background-color: red;
+}
+
+.a-center-yellow {
+    background-color: yellow;
+    position: relative;
+
+}
+
+.a-center-orange {
+    background-color: orange;
+}
+.a-c {
+    width: 50%;
+    height: 80%;
+    background: orange;
+    float: left;
+    margin-top: 77px;
+}
+.b-c{
+    width: 50%;
+    height: 50%;
+    background: red;
+    float: left;
+    margin-top: 218px;
+}
+.bottom{
+    height: 150px;
+    color: white;
+    background: #000;
+}
+.block-right-item{
+    height: 470px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+.blue-block{
+    height: 200px;
+    width: 33.33%;
+    background: blue;
+    margin-top: 230px;
+    float: left;
+}
+.yellow-block{
+    height: 200px;
+    width: 33.33%;
+    background: yellow;
+    margin-top: 180px;
+    float: left;
+}
+.orange-block{
+    height: 200px;
+    width: 33.33%;
+    background: orange;
+    margin-top: 90px;
+    float: left;
+}
+.text-item{
+    width: 55%;
+    background: #000;
+    color: aqua;
+    padding: 5px;
+    font-style: italic;
+    font-weight: bold;
+}
+.text1{
+    float: right;
+    margin-top: 45px;
+}
+.text2{
+    float: left;
+    margin-top: 70px;
+
+}
+
+
