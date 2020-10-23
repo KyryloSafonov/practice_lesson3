@@ -131,6 +131,7 @@ body{
     background-color: yellow;
     position: relative;
 
+
 }
 
 .a-center-orange {
@@ -140,15 +141,19 @@ body{
     width: 50%;
     height: 80%;
     background: orange;
-    float: left;
-    margin-top: 77px;
+    left: 0;
+    position: absolute;
+    bottom: 0;
+    /*margin-top: 77px;*/
 }
 .b-c{
     width: 50%;
     height: 50%;
     background: red;
-    float: left;
-    margin-top: 218px;
+    right: 0;
+    position: absolute;
+    bottom: 0;
+    /*margin-top: 218px;*/
 }
 .bottom{
     height: 150px;
